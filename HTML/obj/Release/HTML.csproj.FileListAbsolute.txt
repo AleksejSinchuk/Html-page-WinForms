@@ -1,0 +1,12 @@
+D:\Проэкты Visual Studio\HTML\HTML\bin\Release\HTML.exe.config
+D:\Проэкты Visual Studio\HTML\HTML\bin\Release\HTML.exe
+D:\Проэкты Visual Studio\HTML\HTML\bin\Release\HTML.pdb
+D:\Проэкты Visual Studio\HTML\HTML\bin\Release\ForHtml.dll
+D:\Проэкты Visual Studio\HTML\HTML\obj\Release\HTML.MyForm.resources
+D:\Проэкты Visual Studio\HTML\HTML\obj\Release\HTML.MiniForm.resources
+D:\Проэкты Visual Studio\HTML\HTML\obj\Release\HTML.Properties.Resources.resources
+D:\Проэкты Visual Studio\HTML\HTML\obj\Release\HTML.csproj.GenerateResource.cache
+D:\Проэкты Visual Studio\HTML\HTML\obj\Release\HTML.csproj.CoreCompileInputs.cache
+D:\Проэкты Visual Studio\HTML\HTML\obj\Release\HTML.csproj.CopyComplete
+D:\Проэкты Visual Studio\HTML\HTML\obj\Release\HTML.exe
+D:\Проэкты Visual Studio\HTML\HTML\obj\Release\HTML.pdb

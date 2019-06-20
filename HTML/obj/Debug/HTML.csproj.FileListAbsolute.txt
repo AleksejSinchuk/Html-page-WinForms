@@ -1,0 +1,16 @@
+D:\Проэкты Visual Studio\HTML\HTML\bin\Debug\HTML.exe.config
+D:\Проэкты Visual Studio\HTML\HTML\bin\Debug\HTML.exe
+D:\Проэкты Visual Studio\HTML\HTML\bin\Debug\HTML.pdb
+D:\Проэкты Visual Studio\HTML\HTML\bin\Debug\ForHtml.dll
+D:\Проэкты Visual Studio\HTML\HTML\obj\Debug\HTML.csprojAssemblyReference.cache
+D:\Проэкты Visual Studio\HTML\HTML\obj\Debug\HTML.Properties.Resources.resources
+D:\Проэкты Visual Studio\HTML\HTML\obj\Debug\HTML.csproj.GenerateResource.cache
+D:\Проэкты Visual Studio\HTML\HTML\obj\Debug\HTML.csproj.CoreCompileInputs.cache
+D:\Проэкты Visual Studio\HTML\HTML\obj\Debug\HTML.csproj.CopyComplete
+D:\Проэкты Visual Studio\HTML\HTML\obj\Debug\HTML.exe
+D:\Проэкты Visual Studio\HTML\HTML\obj\Debug\HTML.pdb
+D:\Проэкты Visual Studio\HTML\HTML\obj\Debug\HTML.MyForm.resources
+D:\Проэкты Visual Studio\HTML\HTML\obj\Debug\HTML.MiniForm.resources
+E:\HTML\HTML\bin\Debug\HTML.exe.config
+E:\HTML\HTML\obj\Debug\HTML.exe
+E:\HTML\HTML\obj\Debug\HTML.pdb
